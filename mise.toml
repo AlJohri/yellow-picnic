@@ -1,0 +1,6 @@
+[tools]
+uv = "latest"
+
+[tasks.all]
+run = "uv run main.py"
+description = "Download, parse, and analyze"

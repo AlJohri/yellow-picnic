@@ -1,0 +1,447 @@
+[
+  {
+    "name": "Parmesan Crusted Chicken",
+    "description": "Savor our Parmesan Crusted Chicken paired with creamy garlic sauce, mashed potatoes and honey-glazed Brussels sprouts",
+    "ingredients": "Chicken breasts, Parmesan cheese, breadcrumbs, fresh garlic, garlic powder, onion powder, black pepper, red potatoes, paprika,  red onion, lemon juice, fresh cilantro, fresh parsley, garlic cloves, tomato, scallions, Brussels sprouts, honey, cream, sea salt, unrefined organic virgin olive oil",
+    "macros": {
+      "loss": {
+        "calories": 435,
+        "protein": 41,
+        "carbs": 28,
+        "fat": 17
+      },
+      "maintain": {
+        "calories": 577,
+        "protein": 43,
+        "carbs": 50,
+        "fat": 22
+      },
+      "gain": {
+        "calories": 720,
+        "protein": 46,
+        "carbs": 72,
+        "fat": 27
+      }
+    }
+  },
+  {
+    "name": "Pollo Guisado",
+    "description": "Tender and flavorful chicken stewed in a savory tomato-based sauce, served with fluffy white rice and sweet plantains",
+    "ingredients": "Garlic, cilantro, oregano, tomato paste, salt, pepper, smoked paprika, brown sugar, sour orange, red onion, red and green bell peppers, pitted olives, powdered chicken bouillon, olive oil, white wine, chicken broth, jasmine rice, fried sweet plantains",
+    "macros": {
+      "loss": {
+        "calories": 439,
+        "protein": 38,
+        "carbs": 33,
+        "fat": 16
+      },
+      "maintain": {
+        "calories": 541,
+        "protein": 40,
+        "carbs": 44,
+        "fat": 16
+      },
+      "gain": {
+        "calories": 643,
+        "protein": 42,
+        "carbs": 77,
+        "fat": 17
+      }
+    }
+  },
+  {
+    "name": "Bang Bang Salmon",
+    "description": "Bang Bang Salmon, glazed with a homemade bang bang sauce, served over jasmine rice and broccoli, topped with fresh green onions",
+    "ingredients": "Salmon fillets, sriracha, rice vinegar, brown sugar, minced garlic, red chili flakes, lime juice, garlic powder, sea salt, black pepper, jasmine rice, broccoli florets, extra virgin olive oil, soy sauce, sesame seeds",
+    "macros": {
+      "loss": {
+        "calories": 449,
+        "protein": 28,
+        "carbs": 25,
+        "fat": 26
+      },
+      "maintain": {
+        "calories": 551,
+        "protein": 30,
+        "carbs": 47,
+        "fat": 26
+      },
+      "gain": {
+        "calories": 653,
+        "protein": 32,
+        "carbs": 69,
+        "fat": 27
+      }
+    }
+  },
+  {
+    "name": "Chimichurri Steak Alfredo Rigatoni",
+    "description": "Seasoned steak bites on a bed of creamy garlic Alfredo rigatoni topped with chimichurri sauce",
+    "ingredients": "Rigatoni pasta, knuckled beef, garlic cloves, parmesan cheese, cream, extra virgin olive oil, butter, chicken broth, cooking white wine, sea salt, black pepper, paprika, Italian seasoning, fresh parsley, cilantro, naranja agria, spinach, parsley, lime juice, teriyaki sauce",
+    "macros": {
+      "loss": {
+        "calories": 536,
+        "protein": 35,
+        "carbs": 41,
+        "fat": 25
+      },
+      "maintain": {
+        "calories": 601,
+        "protein": 37,
+        "carbs": 54,
+        "fat": 25
+      },
+      "gain": {
+        "calories": 671,
+        "protein": 41,
+        "carbs": 65,
+        "fat": 26
+      }
+    }
+  },
+  {
+    "name": "Chicken Lo Mein",
+    "description": "Chicken lomein with carrots, snap peas, broccoli, red and green peppers topped with green onions and sesame seeds",
+    "ingredients": "Chicken breast, lo mein noodles, carrots, snap peas, red bell peppers, green bell peppers, green onions, sesame seeds, soy sauce, broccoli, fresh garlic, ginger, sesame oil, granulated garlic, smoked paprika, black pepper, honey, sea salt, unrefined organic virgin olive oil",
+    "macros": {
+      "loss": {
+        "calories": 492,
+        "protein": 45,
+        "carbs": 35,
+        "fat": 20
+      },
+      "maintain": {
+        "calories": 566,
+        "protein": 47,
+        "carbs": 49,
+        "fat": 21
+      },
+      "gain": {
+        "calories": 639,
+        "protein": 50,
+        "carbs": 62,
+        "fat": 22
+      }
+    }
+  },
+  {
+    "name": "Blackened Chicken Bowl",
+    "description": "Indulge in our blackened chicken served alongside wild rice and roasted sweet potatoes, crowned with a refreshing kale and cabbage salad drizzled in a sweet honey dressing",
+    "ingredients": "Chicken breast, Cajun seasoning, sweet potatoes, wild rice, shredded cabbage, kale, Mayo, mustard, honey, olive oil, black pepper, salt, cooking white wine, lemon juice, smoked paprika, fresh garlic, cilantro, red bell pepper, oregano",
+    "macros": {
+      "loss": {
+        "calories": 486,
+        "protein": 40,
+        "carbs": 41,
+        "fat": 17
+      },
+      "maintain": {
+        "calories": 624,
+        "protein": 43,
+        "carbs": 68,
+        "fat": 19
+      },
+      "gain": {
+        "calories": 726,
+        "protein": 45,
+        "carbs": 90,
+        "fat": 20
+      }
+    }
+  },
+  {
+    "name": "Sweet & Sour Chicken",
+    "description": "Chicken stir-fried in a tangy, flavorful sweet and sour sauce with colorful peppers, topped with fresh scallions, broccoli florets/carrots on a bed of steamed rice",
+    "ingredients": "Chicken breast, black pepper, red bell pepper, green bell pepper, yellow bell pepper, red onions, rice vinegar, soy sauce, brown sugar, garlic gloves, granulated garlic, ginger, all purpose flour, Jasmine rice, Broccoli, carrots, scallions, sesame seeds, sea salt, unrefined organic virgin olive oil, white wine, red pepper flakes, honey, sesame oil",
+    "macros": {
+      "loss": {
+        "calories": 513,
+        "protein": 41,
+        "carbs": 44,
+        "fat": 18
+      },
+      "maintain": {
+        "calories": 615,
+        "protein": 43,
+        "carbs": 66,
+        "fat": 18
+      },
+      "gain": {
+        "calories": 717,
+        "protein": 45,
+        "carbs": 88,
+        "fat": 19
+      }
+    }
+  },
+  {
+    "name": "Creamy Tuscan Rigatoni",
+    "description": "Rich sundried tomato cream sauce with chicken and saut\u00e9ed spinach over a bed of tender rigatoni",
+    "ingredients": "Chicken breast, rigatoni pasta, sun-dried tomatoes, spinach, cream, parmesan cheese, chicken broth, cooking white wine, fresh garlic, crushed tomato puree, granulated garlic, cilantro, naranja agria, lemon juice, pure olive oil, sea salt, black pepper, oregano, smoked paprika, chicken buillon seasoning, fresh parsley, red bell pepper, green bell pepper, yellow onion, corn starch, dried parsley, Italian seasoning, butter, shredded parmesan cheese",
+    "macros": {
+      "loss": {
+        "calories": 554,
+        "protein": 48,
+        "carbs": 50,
+        "fat": 20
+      },
+      "maintain": {
+        "calories": 604,
+        "protein": 50,
+        "carbs": 60,
+        "fat": 20
+      },
+      "gain": {
+        "calories": 704,
+        "protein": 54,
+        "carbs": 81,
+        "fat": 21
+      }
+    }
+  },
+  {
+    "name": "Creamy Cowboy Chicken",
+    "description": "Creamy Cowboy butter chicken with sweet mashed potatoes and carrots",
+    "ingredients": "Chicken breast, sweet potatoes, garlic, carrots, cream, dijon mustard, cajun seasoning, smoked paprika, lemon pepper seasoning, lemon juice, crushed tomato puree, parmesan cheese, cooking white wine, chicken broth, cilantro, green bell pepper, red bell pepper, chicken buillon seasoning, oregano, teriyaki sauce, pure olive oil, sea salt, black pepper, granulated garlic, chili powder, red chili flakes, butter",
+    "macros": {
+      "loss": {
+        "calories": 495,
+        "protein": 43,
+        "carbs": 30,
+        "fat": 23
+      },
+      "maintain": {
+        "calories": 637,
+        "protein": 45,
+        "carbs": 52,
+        "fat": 28
+      },
+      "gain": {
+        "calories": 780,
+        "protein": 48,
+        "carbs": 74,
+        "fat": 33
+      }
+    }
+  },
+  {
+    "name": "Mango Habanero Chicken",
+    "description": "Juicy chicken tossed a spicy and sweet mango habanero sauce with yellow rice with corn, mango pico de gallo, and cilantro crema",
+    "ingredients": "Chicken breast, mango, jasmine rice, azafran seasoning, corn, tomatoes, cilantro, parsley, jalape\u00f1o, red onion, mayonnaise, sour cream, lime juice, pure olive oil, garlic, soy sauce, habanero pepper, honey, maple syrup, browning, corn starch, apple cider vinegar, sea salt, granulated garlic, chicken buillon seasoning, oregano, smoked paprika, cooking white wine, red chili flakes, red bell pepper, green bell pepper",
+    "macros": {
+      "loss": {
+        "calories": 439,
+        "protein": 39,
+        "carbs": 27,
+        "fat": 18
+      },
+      "maintain": {
+        "calories": 541,
+        "protein": 41,
+        "carbs": 49,
+        "fat": 18
+      },
+      "gain": {
+        "calories": 643,
+        "protein": 43,
+        "carbs": 71,
+        "fat": 19
+      }
+    }
+  },
+  {
+    "name": "Lemon Garlic Shrimp",
+    "description": "Juicy shrimp in a buttery lemon garlic sauce on a bed of white jasmine rice and medley of seasoned vegetables: zucchini, carrots, and asparagus.",
+    "ingredients": "Shrimp, jasmine rice, asparagus, zucchini, carrots, butter, lemon juice, garlic, cooking white wine, corn starch, fresh parsley, black pepper, pure olive oil, oregano, smoked paprika, vegetable broth",
+    "macros": {
+      "loss": {
+        "calories": 496,
+        "protein": 29,
+        "carbs": 33,
+        "fat": 26
+      },
+      "maintain": {
+        "calories": 566,
+        "protein": 31,
+        "carbs": 47,
+        "fat": 26
+      },
+      "gain": {
+        "calories": 668,
+        "protein": 33,
+        "carbs": 69,
+        "fat": 27
+      }
+    }
+  },
+  {
+    "name": "Pastelon de Papa",
+    "description": "Creamy layers of mashed potatoes, seasoned ground turkey, and melted cheese with a side salad (kale, carrots, red cabbage)",
+    "ingredients": "Ground turkey, red potatoes, cream, butter, cooking white wine, tomato paste, crushed tomato pure, yellow onion, garlic, chicken bullion seasoning, chicken broth, black pepper, granulated garlic, oregano, Monterrey jack and cheddar cheese, mozzarella cheese, parmesan cheese, kale, shredded purple cabbage, shredded green cabbage, shredded carrots, lemon juice, pure olive oil, dijon mustard, sea salt, rice vinegar",
+    "macros": {
+      "loss": {
+        "calories": 456,
+        "protein": 32,
+        "carbs": 24,
+        "fat": 28
+      },
+      "maintain": {
+        "calories": 598,
+        "protein": 34,
+        "carbs": 46,
+        "fat": 33
+      },
+      "gain": {
+        "calories": 741,
+        "protein": 37,
+        "carbs": 68,
+        "fat": 38
+      }
+    }
+  },
+  {
+    "name": "Eggplant Parm",
+    "description": "Crispy eggplant Parmesan layers with marinara, cheese, and bechamel sauce with a kale salad and Honey balsamic vinaigrette",
+    "ingredients": "Eggplant, panko breadcrumbs, marinara sauce, mozzarella cheese, Italian seasoning, black pepper, fresh garlic, granulated garlic, kale, honey, balsamic vinegar, corn starch, brown sugar, cream, cooking white wine, nutmeg, butter, smoke paprika, oregano",
+    "macros": {
+      "loss": {
+        "calories": 480,
+        "protein": 18,
+        "carbs": 44,
+        "fat": 29
+      },
+      "maintain": {
+        "calories": 568,
+        "protein": 20,
+        "carbs": 66,
+        "fat": 30
+      },
+      "gain": {
+        "calories": 603,
+        "protein": 22,
+        "carbs": 66,
+        "fat": 32
+      }
+    }
+  },
+  {
+    "name": "YP Signature - Chipotle Chicken Burrito",
+    "description": "Tender chipotle chicken paired with seasoned black beans, white rice, and a three-cheese blend with our avocado cilantro dressing (loss comes with half a burrito, refried beans)",
+    "ingredients": "Chipotle peppers, chicken, cumin, garlic, bell peppers, lime juice, diced tomatoes, shredded lettuce, flour tortilla, black beans, Jasmine rice, pepper jack, white cheddar, mozzarella cheese, avocado, fresh cilantro, Greek Yogurt, mayonnaise, paprika, pinto beans sea salt, unrefined organic virgin olive oil",
+    "macros": {
+      "loss": {
+        "calories": 563,
+        "protein": 51,
+        "carbs": 45,
+        "fat": 18
+      },
+      "maintain": {
+        "calories": 709,
+        "protein": 56,
+        "carbs": 71,
+        "fat": 20
+      },
+      "gain": {
+        "calories": 773,
+        "protein": 58,
+        "carbs": 85,
+        "fat": 20
+      }
+    }
+  },
+  {
+    "name": "Chickpea & Maduro Stew",
+    "description": "A hearty and flavorful chickpea stew served with sweet plantains, fluffy white rice, and tangy purple cabbage",
+    "ingredients": "Chickpeas, ripe plantains, Jasmine rice, red onion, garlic cloves, red bell pepper, green bell peppers, vegetable broth, cumin, coriander, smoked paprika, black pepper, fresh cilantro, purple cabbage, lime juice, sea salt, organic unrefined virgin olive oil, dijon mustard, honey, apple cider vinegar, lemon juice, crushed tomato puree, tomato paste, cooking white wine",
+    "macros": {
+      "loss": {
+        "calories": 464,
+        "protein": 15,
+        "carbs": 73,
+        "fat": 14
+      },
+      "maintain": {
+        "calories": 566,
+        "protein": 17,
+        "carbs": 95,
+        "fat": 14
+      },
+      "gain": {
+        "calories": 668,
+        "protein": 19,
+        "carbs": 117,
+        "fat": 15
+      }
+    }
+  },
+  {
+    "name": "Black Bean Burger",
+    "description": "Black bean patty blended with peppers, green onions, and topped with Swiss cheese served with brioche buns, chipotle mayo sauce, spinach, and a pico de gallo",
+    "ingredients": "Black beans, egg, Onions, Garlic, Cumin, Chili Powder, Peppers, Brioche Buns, Lettuce, Tomato, Red Onion, Swiss cheese, Mayonnaise, Greek Yogurt, Chipotle peppers, lime juice, garlic, black pepper, sea salt, unrefined organic virgin olive oil",
+    "macros": {
+      "loss": {
+        "calories": 436,
+        "protein": 21,
+        "carbs": 41,
+        "fat": 21
+      },
+      "maintain": {
+        "calories": 504,
+        "protein": 25,
+        "carbs": 45,
+        "fat": 25
+      },
+      "gain": {
+        "calories": 507,
+        "protein": 25,
+        "carbs": 46,
+        "fat": 25
+      }
+    }
+  },
+  {
+    "name": "Dark Chocolate Raspberry French Toast",
+    "description": "Dark Chocolate Raspberry French Toast topped with fresh berries",
+    "ingredients": "Brioche, Eggs, Milk, Light Brown Sugar, Pure Vanilla Extract, Cinnamon, Salt, Raspberry, Lemon, Dark Chocolate, Pure Maple Syrup",
+    "macros": {
+      "loss": {
+        "calories": 483,
+        "protein": 19,
+        "carbs": 57,
+        "fat": 19
+      },
+      "maintain": {},
+      "gain": {}
+    }
+  },
+  {
+    "name": "Chicken Breakfast Quesadilla",
+    "description": "Breakfast quesadilla filled with a blend of cheddar and Jack cheese, fluffy eggs, flavorful verde chicken, served with a crema",
+    "ingredients": "Tortilla, eggs, chicken, Monterey Jack cheese, cheddar cheese, salsa verde (tomatillo, jalape\u00f1o, poblano, white onion, garlic, cilantro, lime, green chilies), sour creams, salt, pepper, garlic powder, chili powder, paprika, onion powder, oregano",
+    "macros": {
+      "loss": {
+        "calories": 446,
+        "protein": 29,
+        "carbs": 45,
+        "fat": 15
+      },
+      "maintain": {},
+      "gain": {}
+    }
+  },
+  {
+    "name": "Vanilla Overnight Oats",
+    "description": "Vanilla overnight oats mixed with chia seeds, creamy Greek yogurt, and a hint of maple syrup and cinnamon, topped with fresh blueberries and crunchy granola",
+    "ingredients": "Rolled oats, chia seeds, Greek yogurt, milk, maple syrup, vanilla extract, ground cinnamon, fresh blueberries, salt",
+    "macros": {
+      "loss": {
+        "calories": 458,
+        "protein": 23,
+        "carbs": 52,
+        "fat": 18
+      },
+      "maintain": {},
+      "gain": {}
+    }
+  }
+]
