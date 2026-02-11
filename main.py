@@ -12,8 +12,8 @@ from download import download
 from parse import parse
 from analyze import analyze
 
-html = download()
-date, meals = parse(html)
+html, date = download()
+meals = parse(html, date)
 
 if not meals:
     print("Error: no meals parsed", file=sys.stderr)

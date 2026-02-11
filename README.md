@@ -6,7 +6,6 @@ Analyze and score weekly [Yellow Picnic](https://yellowpicnic.com) meals by macr
 
 - [Install mise](https://mise.jdx.dev/getting-started.html)
 - Sign into [yellowpicnic.com](https://yellowpicnic.com) in Chrome — we use [browser_cookie3](https://github.com/borisbabic/browser_cookie3) to read cookies from Chrome
-- Update `SUBSCRIPTION_ID` in `download.py` to match your subscription
 
 ## Quick Start
 

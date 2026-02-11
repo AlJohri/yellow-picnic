@@ -1,23 +1,6 @@
 import re
-from datetime import datetime
 
 from bs4 import BeautifulSoup
-
-
-def parse_date(soup):
-    weekday_el = soup.select_one("span.weekday")
-    if not weekday_el:
-        raise ValueError("Could not find menu date")
-    date_match = re.search(r":\s*(.+)$", weekday_el.get_text())
-    if not date_match:
-        raise ValueError("Could not parse menu date")
-    date = datetime.strptime(date_match.group(1).strip(), "%A, %B %d")
-    now = datetime.now()
-    date = date.replace(year=now.year)
-    diff = abs((date - now).days)
-    if diff > 180:
-        date = date.replace(year=now.year + (1 if date < now else -1))
-    return date.strftime("%Y-%m-%d")
 
 
 def parse_ingredients(card):
@@ -48,9 +31,8 @@ def parse_macros(card):
     return macros
 
 
-def parse(html):
+def parse(html, date_str):
     soup = BeautifulSoup(html, "lxml")
-    date_str = parse_date(soup)
 
     meals = []
     for card in soup.select("div.cui-card"):
@@ -73,4 +55,4 @@ def parse(html):
             f"Found {len(cards)} cards but parsed 0 meals; page structure may have changed"
         )
 
-    return date_str, meals
+    return meals
