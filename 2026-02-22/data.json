@@ -1,0 +1,457 @@
+[
+  {
+    "name": "Honey BBQ Chicken",
+    "description": "Honey BBQ Chicken paired with savory garlic roasted potatoes and creamed corn",
+    "ingredients": "Chicken breasts, honey, tomatoes, apple cider vinegar, Worcestershire sauce, fresh garlic, garlic powder, red onions, onion powder, smoked paprika, chili powder, salt, black pepper, extra virgin olive oil, red potatoes, corn kernels, cream, sugar, thyme, parsley",
+    "macros": {
+      "loss": {
+        "calories": 473,
+        "protein": 41,
+        "carbs": 34,
+        "fat": 20
+      },
+      "maintain": {
+        "calories": 548,
+        "protein": 43,
+        "carbs": 51,
+        "fat": 20
+      },
+      "gain": {
+        "calories": 622,
+        "protein": 45,
+        "carbs": 68,
+        "fat": 20
+      }
+    }
+  },
+  {
+    "name": "Pollo al Ajillo",
+    "description": "Succulent pollo al ajillo served with aromatic rice, sweet plantain, and a touch of rich oil for a flavorful experience",
+    "ingredients": "Chicken breast, minced garlic, smoked paprika, green bell peppers, red bell peppers, white wine, granulated garlic, black pepper, fancy paprika, oregano, Jasmine rice, sweet plantain, extra virgin olive oil",
+    "macros": {
+      "loss": {
+        "calories": 484,
+        "protein": 39,
+        "carbs": 34,
+        "fat": 20
+      },
+      "maintain": {
+        "calories": 586,
+        "protein": 41,
+        "carbs": 56,
+        "fat": 20
+      },
+      "gain": {
+        "calories": 688,
+        "protein": 43,
+        "carbs": 78,
+        "fat": 21
+      }
+    }
+  },
+  {
+    "name": "Peruvian Chicken",
+    "description": "Peruvian chicken with chuffa rice with saut\u00e9ed veggies (corn, peas, carrots) & aji verde sauce",
+    "ingredients": "chicken breast, garlic, jalape\u00f1o pepper, cilantro, parsley, green onion, greek yogurt, lime juice, white vinegar, sea salt, pepper, cumin, sesame oil, paprika, corn, peas, carrots, Jasmine Rice, sea salt, unrefined organic virgin olive oil",
+    "macros": {
+      "loss": {
+        "calories": 485,
+        "protein": 43,
+        "carbs": 37,
+        "fat": 19
+      },
+      "maintain": {
+        "calories": 587,
+        "protein": 45,
+        "carbs": 59,
+        "fat": 19
+      },
+      "gain": {
+        "calories": 689,
+        "protein": 47,
+        "carbs": 81,
+        "fat": 20
+      }
+    }
+  },
+  {
+    "name": "Garlic Butter Salmon",
+    "description": "Tender pan-seared salmon fillet served with a flavorful garlic butter sauce, paired with creamy mashed potatoes infused with melted cheese and accompanied by  Broccoli",
+    "ingredients": "Salmon fillets, extra virgin olive oil, red bell peppers, green bell peppers, unsalted butter, fresh garlic cloves, lemon juice, fresh parsley, sea salt, black pepper, red potatoes, cream, shredded cheddar cheese, broccoli florets",
+    "macros": {
+      "loss": {
+        "calories": 483,
+        "protein": 33,
+        "carbs": 24,
+        "fat": 27
+      },
+      "maintain": {
+        "calories": 601,
+        "protein": 35,
+        "carbs": 42,
+        "fat": 32
+      },
+      "gain": {
+        "calories": 720,
+        "protein": 37,
+        "carbs": 59,
+        "fat": 36
+      }
+    }
+  },
+  {
+    "name": "Korean Steak BBQ Bowl",
+    "description": "Korean Steak BBQ Bowl served with aromatic Jasmine Rice and topped with a zesty Creamy Sriracha Sauce with a side of cucumber salad and shredded carrots",
+    "ingredients": "Beef, garlic cloves, ginger, green onions, gochujang, rice vinegar, jasmine rice, mayo, sriracha, lime juice, honey, sesame seeds, sliced cucumbers, brown sugar, sesame oil, coconut aminos, soy sauce, sea salt, organic virgin olive oil",
+    "macros": {
+      "loss": {
+        "calories": 441,
+        "protein": 31,
+        "carbs": 30,
+        "fat": 21
+      },
+      "maintain": {
+        "calories": 546,
+        "protein": 33,
+        "carbs": 53,
+        "fat": 21
+      },
+      "gain": {
+        "calories": 651,
+        "protein": 36,
+        "carbs": 75,
+        "fat": 22
+      }
+    }
+  },
+  {
+    "name": "Creamy Lemon Pepper Chicken",
+    "description": "Chicken draped in a creamy lemon pepper sauce, accompanied by sweet potato mash and caramelized Brussels sprouts",
+    "ingredients": "Chicken breasts, red bell peppers, green bell peppers, smoked paprika, cream, lemon juice, lemon zest, freshly ground black pepper, garlic powder, sea salt, sweet potatoes, paprika, Brussels sprouts, balsamic vinegar, honey, garlic cloves, extra virgin olive oil",
+    "macros": {
+      "loss": {
+        "calories": 474,
+        "protein": 42,
+        "carbs": 30,
+        "fat": 21
+      },
+      "maintain": {
+        "calories": 558,
+        "protein": 43,
+        "carbs": 51,
+        "fat": 21
+      },
+      "gain": {
+        "calories": 643,
+        "protein": 44,
+        "carbs": 72,
+        "fat": 21
+      }
+    }
+  },
+  {
+    "name": "Spicy Vodka Rigatoni with Grilled Chicken",
+    "description": "Rigatoni tossed a succulent spicy vodka sauce with juicy grilled chicken topped with shredded parmesan cheese and basil pesto",
+    "ingredients": "Chicken, rigatoni, marinara sauce, red chili fakes, cream, basil, spinach, parmesan cheese, pure olive oil, fresh garlic, sea salt, cooking white wine, chicken broth, lemon juice, smoked paprika, oregano, Italian seasoning, brown sugar, chicken buillon seasoning, teriyaki sauce, shredded parmesan cheese",
+    "macros": {
+      "loss": {
+        "calories": 525,
+        "protein": 44,
+        "carbs": 43,
+        "fat": 24
+      },
+      "maintain": {
+        "calories": 575,
+        "protein": 46,
+        "carbs": 44,
+        "fat": 24
+      },
+      "gain": {
+        "calories": 675,
+        "protein": 50,
+        "carbs": 65,
+        "fat": 25
+      }
+    }
+  },
+  {
+    "name": "Firecracker Chicken Stir-Fry",
+    "description": "A zesty Firecracker Chicken Stir-Fry with a sweet and spicy sauce - snap peas, carrots and peppers, served over a bed of fluffy rice",
+    "ingredients": "chicken breast, red bell pepper, green bell pepper, snap peas, garlic, ginger, soy sauce, rice vinegar, brown sugar, cornstarch, coconut aminos, soy sauce, red pepper flakes, green onions, Jasmine rice, sea salt, unrefined organic virgin olive oil",
+    "macros": {
+      "loss": {
+        "calories": 463,
+        "protein": 40,
+        "carbs": 33,
+        "fat": 18
+      },
+      "maintain": {
+        "calories": 565,
+        "protein": 42,
+        "carbs": 55,
+        "fat": 18
+      },
+      "gain": {
+        "calories": 667,
+        "protein": 44,
+        "carbs": 77,
+        "fat": 19
+      }
+    }
+  },
+  {
+    "name": "Butter White Wine Shrimp",
+    "description": "Shrimp saut\u00e9ed in a sage butter white wine sauce, served over linguine tossed with parmesan, garlic, and parsley.",
+    "ingredients": "Shrimp, linguine, dried parsley, fresh parsley, cream, cooking white wine, butter, fresh garlic, pure olive oil, lemon juice, oregano, smoked paprika, Italian seasoning, corn starch, parmesan cheese, shredded parmesan cheese,",
+    "macros": {
+      "loss": {
+        "calories": 526,
+        "protein": 36,
+        "carbs": 45,
+        "fat": 28
+      },
+      "maintain": {
+        "calories": 589,
+        "protein": 36,
+        "carbs": 45,
+        "fat": 28
+      },
+      "gain": {
+        "calories": 696,
+        "protein": 40,
+        "carbs": 65,
+        "fat": 29
+      }
+    }
+  },
+  {
+    "name": "Mexican Quinoa Bowl",
+    "description": "Savory grilled chicken served with zesty pico de gallo, fluffy quinoa, black beans, and a melty Mexican cheese blend",
+    "ingredients": "Chicken breasts, smoked paprika, red bell peppers, green bell peppers, tomatoes, parsley, cilantro, quinoa, Mexican cheese blend, black beans, olive oil, chili powder, cumin, sea salt, black pepper, lime, cilantro",
+    "macros": {
+      "loss": {
+        "calories": 477,
+        "protein": 43,
+        "carbs": 21,
+        "fat": 25
+      },
+      "maintain": {
+        "calories": 579,
+        "protein": 46,
+        "carbs": 39,
+        "fat": 26
+      },
+      "gain": {
+        "calories": 681,
+        "protein": 50,
+        "carbs": 57,
+        "fat": 28
+      }
+    }
+  },
+  {
+    "name": "Chicken Pad Thai",
+    "description": "Seasoned and grilled chicken on a bed of noodles tossed in a sweet tamarind sauce with shredded carrots and cilantro, garnished with lime wedges",
+    "ingredients": "Chicken, linguine, cilantro, tamarind paste, fish oil, teriyaki sauce, oyster sauce, hoisin sauce, browning sauce, corn starch, sesame oil, rice vinegar, honey, brown sugar, shredded carrots, lime wedges, scallions, fresh ginger, cooking white wine, lemon juice, oregano, smoked paprika, black pepper, fresh garlic, chicken buillon seasoning, chicken broth, pure olive oil, sea salt",
+    "macros": {
+      "loss": {
+        "calories": 483,
+        "protein": 40,
+        "carbs": 32,
+        "fat": 20
+      },
+      "maintain": {
+        "calories": 562,
+        "protein": 42,
+        "carbs": 41,
+        "fat": 24
+      },
+      "gain": {
+        "calories": 600,
+        "protein": 42,
+        "carbs": 42,
+        "fat": 28
+      }
+    }
+  },
+  {
+    "name": "Ground Turkey Lasagna",
+    "description": "Layers of savory ground turkey and lasagna noodles, smothered in marinara sauce, and topped with melted mozzarella cheese",
+    "ingredients": "Ground turkey, lasagna sheets, marinara sauce, ricotta cheese, parmesan cheese, mozzarella cheese, cooking white wine, lemon juice, soy sauce, fresh garlic, basil, brown sugar, Italian seasoning, sea salt, pure olive oil, oregano, smoked paprika, chicken buillon seasoning, chicken broth, cream, butter, yellow onion, cilantro",
+    "macros": {
+      "loss": {
+        "calories": 552,
+        "protein": 23,
+        "carbs": 38,
+        "fat": 46
+      },
+      "maintain": {
+        "calories": 621,
+        "protein": 50,
+        "carbs": 48,
+        "fat": 24
+      },
+      "gain": {
+        "calories": 759,
+        "protein": 58,
+        "carbs": 69,
+        "fat": 26
+      }
+    }
+  },
+  {
+    "name": "Teriyaki Chicken Wrap",
+    "description": "Tender chicken wrap in a succulent teriyaki sauce filled with spinach, corn, shredded carrots, and mozzarella cheese paired with a spicy mayo sauce",
+    "ingredients": "Chicken breasts, flour tortillas, baby spinach,  corn, carrots, mozzarella cheese, sea salt, black pepper, red bell peppers, green bell peppers, mayonnaise, garlic powder, onion powder, dried dill, dried parsley, dried chives, spicy mayo, sea salt, lemon juice, virgin olive oil, Teriyaki sauce",
+    "macros": {
+      "loss": {
+        "calories": 495,
+        "protein": 48,
+        "carbs": 25,
+        "fat": 22
+      },
+      "maintain": {
+        "calories": 643,
+        "protein": 52,
+        "carbs": 49,
+        "fat": 26
+      },
+      "gain": {
+        "calories": 678,
+        "protein": 55,
+        "carbs": 49,
+        "fat": 29
+      }
+    }
+  },
+  {
+    "name": "Southwest Black Bean Skillet",
+    "description": "Hearty Southwest black bean, corn, and sweet potato skillet with rice, drizzled with zesty Southwest aioli and topped with fresh cilantro and cheese",
+    "ingredients": "Black beans, sweet potatoes, Jasmine rice, Monterey Jack cheese, Cheddar cheese, red bell pepper, onion, fresh garlic, cumin, chili powder, red bell peppers, smoked paprika, sea salt, black pepper, extra virgin olive oil, lime juice, mayo, chipotle, cilantro, green onions, corn, diced tomatoes, avocado, jalape\u00f1o, water",
+    "macros": {
+      "loss": {
+        "calories": 445,
+        "protein": 19,
+        "carbs": 50,
+        "fat": 20
+      },
+      "maintain": {
+        "calories": 547,
+        "protein": 21,
+        "carbs": 72,
+        "fat": 20
+      },
+      "gain": {
+        "calories": 649,
+        "protein": 23,
+        "carbs": 94,
+        "fat": 21
+      }
+    }
+  },
+  {
+    "name": "BBQ Ranch Chickpea Quinoa Bowl",
+    "description": "BBQ glazed chickpeas, garlic infused quinoa paired with corn, pickled onions and creamy ranch dressing",
+    "ingredients": "Chickpeas, liquid smoke, honey, ketchup, brown sugar, mustard, dill, parsley, mayo, sour cream, red onions, quinoa, corn, black pepper, olive oil salt",
+    "macros": {
+      "loss": {
+        "calories": 449,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 19
+      },
+      "maintain": {
+        "calories": 560,
+        "protein": 19,
+        "carbs": 79,
+        "fat": 21
+      },
+      "gain": {
+        "calories": 671,
+        "protein": 23,
+        "carbs": 99,
+        "fat": 23
+      }
+    }
+  },
+  {
+    "name": "Butter Cauliflower",
+    "description": "A vegetarian riff on the classic Indian dish, Butter Chicken. In this version, tender cauliflower florets are simmered in a spiced cream sauce and served with jasmine rice and mango chutney",
+    "ingredients": "Cauliflower, mango, jasmine rice, red bell pepper, green bell pepper, garam masala, curry powder, turmeric, cumin powder, smoked paprika, fresh garlic, fresh ginger, crushed tomato puree, brown sugar, honey, cilantro, coriander powder, granulated garlic, sea salt, pure olive oil, butter, cream, black pepper",
+    "macros": {
+      "loss": {
+        "calories": 436,
+        "protein": 11,
+        "carbs": 48,
+        "fat": 23
+      },
+      "maintain": {
+        "calories": 538,
+        "protein": 13,
+        "carbs": 70,
+        "fat": 23
+      },
+      "gain": {
+        "calories": 640,
+        "protein": 15,
+        "carbs": 92,
+        "fat": 24
+      }
+    }
+  },
+  {
+    "name": "Cinnamon Roll French Toast",
+    "description": "French toast with swirls of cinnamon sugar, griddled golden and finished with a light glaze.",
+    "ingredients": "Challah bread, almond milk, pasture raised eggs, apples, cinnamon, light brown sugar, pure vanilla extract, butter, maple syrup, salt",
+    "macros": {
+      "loss": {
+        "calories": 407,
+        "protein": 14,
+        "carbs": 66,
+        "fat": 10
+      },
+      "maintain": {},
+      "gain": {}
+    }
+  },
+  {
+    "name": "Heart Southwest Breakfast Bowl",
+    "description": "Fluffy eggs on a bed of cubed yellow potatoes in southwest spices and saut\u00e9ed cherry tomatoes and red peppers topped with Monterrey jack cheese and creamy cilantro crema",
+    "ingredients": "",
+    "macros": {
+      "loss": {
+        "calories": 422,
+        "protein": 23,
+        "carbs": 23,
+        "fat": 28
+      },
+      "maintain": {
+        "calories": 422,
+        "protein": 23,
+        "carbs": 23,
+        "fat": 28
+      },
+      "gain": {
+        "calories": 422,
+        "protein": 23,
+        "carbs": 23,
+        "fat": 28
+      }
+    }
+  },
+  {
+    "name": "YP Signature Parfait",
+    "description": "A delightful parfait featuring layers of creamy yogurt and crunchy granola packed with oats, maple syrup, white chocolate, cranberries, raisins, and pumpkin seeds",
+    "ingredients": "",
+    "macros": {
+      "loss": {
+        "calories": 368,
+        "protein": 21,
+        "carbs": 35,
+        "fat": 16
+      },
+      "maintain": {},
+      "gain": {}
+    }
+  }
+]

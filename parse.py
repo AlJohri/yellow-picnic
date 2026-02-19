@@ -19,7 +19,7 @@ def parse_macros(card):
         values = {}
         for span in block.select("span.actual_v"):
             text = span.get_text(strip=True)
-            m = re.match(r"(\d+)(kcal|g)", text, re.IGNORECASE)
+            m = re.match(r"(\d+)\s*(kcal|cal|g)?$", text, re.IGNORECASE)
             if not m:
                 if text:
                     print(f"Warning: unparseable macro value: {text!r}")
